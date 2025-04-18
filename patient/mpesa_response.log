@@ -1,0 +1,6 @@
+Array
+(
+    [requestId] => 6e86-45dd-91ac-fd5d4178ab524071886
+    [errorCode] => 400.002.02
+    [errorMessage] => Bad Request - Invalid PhoneNumber
+)
